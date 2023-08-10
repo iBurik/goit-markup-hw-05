@@ -968,7 +968,7 @@ img {
 }
 
 .checkbox-input:checked + .checkbox-label .checkbox-label-box {
-    background-color: var(--iris, #404bbf);
+    background-color: var(--blue, #404bbf);
     border: none;
     fill: #F4F4FD;
 }
